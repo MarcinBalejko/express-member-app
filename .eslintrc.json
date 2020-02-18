@@ -8,6 +8,7 @@
     "no-console": "off",
     "func-names": "off",
     "object-shorthand": "off",
-    "class-methods-use-this": "off"
+    "class-methods-use-this": "off",
+    "radix": "off"
   }
 }
